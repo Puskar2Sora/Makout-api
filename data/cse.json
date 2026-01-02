@@ -19,6 +19,17 @@
         { "code": "ES-CS291", "name": "Programming For Problem Solving Lab", "credit": 1 },
         { "code": "ES-ME291", "name": "Engeneering Graphics & Design", "credit": 1 },
         { "code": "HM-HU291", "name": "Language Laboratory", "credit": 1 }
+      ],
+       "3": [
+        { "code": "BS-M201", "name": "Mathematics-IIIA", "credit": 4 },
+        { "code": "BS-CH201", "name": "Analog & Digital", "credit": 4 },
+        { "code": "ES-CS201", "name": "Data Structures", "credit": 3 },
+        { "code": "HM-HU201", "name": "Computer Organisation", "credit": 1 },
+        { "code": "BS-CH291", "name": "Economics", "credit": 1 },
+        { "code": "ES-CS291", "name": "Data Structures Lab", "credit": 1 },
+        { "code": "ES-ME291", "name": "Analog Digital Lab", "credit": 1 },
+        { "code": "HM-HU291", "name": "Computer Oranisation Lab", "credit": 1 },
+        { "code": "HM-HU291", "name": "IT Workshop", "credit": 1 }
       ]
     }
   }
