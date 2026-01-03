@@ -30,6 +30,48 @@
         { "code": "ES-ME291", "name": "Analog Digital Lab", "credit": 1 },
         { "code": "HM-HU291", "name": "Computer Oranisation Lab", "credit": 1 },
         { "code": "HM-HU291", "name": "IT Workshop", "credit": 1 }
+      ],
+       "4": [
+        { "code": "BS-M401", "name": "Mathematics – IV", "credit": 4 },
+        { "code": "ES-CS401", "name": "Design and Analysis of Algorithms", "credit": 3 },
+        { "code": "ES-CS402", "name": "Operating Systems", "credit": 3 },
+        { "code": "ES-CS403", "name": "Object Oriented Programming", "credit": 3 },
+        { "code": "ES-CS404", "name": "Database Management Systems", "credit": 3 },
+        { "code": "ES-CS491", "name": "Algorithms Laboratory", "credit": 1.5 },
+        { "code": "ES-CS492", "name": "Operating Systems Laboratory", "credit": 1 },
+        { "code": "ES-CS493", "name": "OOP & DBMS Laboratory", "credit": 1.5 }
+      ],
+      "5": [
+        { "code": "ES-CS501", "name": "Computer Networks", "credit": 3 },
+        { "code": "ES-CS502", "name": "Theory of Computation", "credit": 3 },
+        { "code": "ES-CS503", "name": "Software Engineering", "credit": 3 },
+        { "code": "ES-CS504", "name": "Microprocessors & Microcontrollers", "credit": 3 },
+        { "code": "PE-CS501", "name": "Professional Elective – I", "credit": 3 },
+        { "code": "ES-CS591", "name": "Computer Networks Laboratory", "credit": 1.5 },
+        { "code": "ES-CS592", "name": "Microprocessor Laboratory", "credit": 1.5 }
+      ],
+      "6": [
+        { "code": "ES-CS601", "name": "Compiler Design", "credit": 3 },
+        { "code": "ES-CS602", "name": "Artificial Intelligence", "credit": 3 },
+        { "code": "ES-CS603", "name": "Machine Learning", "credit": 3 },
+        { "code": "PE-CS601", "name": "Professional Elective – II", "credit": 3 },
+        { "code": "OE-CS601", "name": "Open Elective – I", "credit": 3 },
+        { "code": "ES-CS691", "name": "Compiler Design Laboratory", "credit": 1.5 },
+        { "code": "ES-CS692", "name": "AI / ML Laboratory", "credit": 1.5 },
+        { "code": "ES-CS693", "name": "Mini Project", "credit": 2 }
+      ],
+      "7": [
+        { "code": "PE-CS701", "name": "Professional Elective – III", "credit": 3 },
+        { "code": "PE-CS702", "name": "Professional Elective – IV", "credit": 3 },
+        { "code": "OE-CS701", "name": "Open Elective – II", "credit": 3 },
+        { "code": "HS-HU701", "name": "Engineering Ethics", "credit": 2 },
+        { "code": "ES-CS791", "name": "Project – Phase I", "credit": 4 },
+        { "code": "ES-CS792", "name": "Industrial Training / Internship", "credit": 2 }
+      ],
+      "8": [
+        { "code": "ES-CS891", "name": "Project – Phase II", "credit": 10 },
+        { "code": "PE-CS801", "name": "Professional Elective – V", "credit": 3 },
+        { "code": "OE-CS801", "name": "Open Elective – III", "credit": 3 }
       ]
     }
   }

@@ -1,0 +1,61 @@
+{
+  "stream": "AIML",
+  "regulations": {
+    "2023": {
+      "1": [
+        { "code": "BS-M101", "name": "Mathematics – IA", "credit": 4 },
+        { "code": "BS-PH101", "name": "Physics-I", "credit": 4 },
+        { "code": "ES-EE101", "name": "Basic Electrical Engineering", "credit": 4 },
+        { "code": "BS-PH191", "name": "Physics-I Laboratory", "credit": 1.5 },
+        { "code": "ES-EE191", "name": "Basic Electrical Engineering Laboratory", "credit": 1 },
+        { "code": "ES-ME192", "name": "Workshop", "credit": 3 }
+      ],
+      "2": [
+        { "code": "BS-CH201", "name": "Chemistry-I", "credit": 4 },
+        { "code": "BS-M201", "name": "Mathematics – IIA", "credit": 4 },
+        { "code": "ES-CS201", "name": "Programming for Problem Solving", "credit": 3 },
+        { "code": "HM-HU201", "name": "English", "credit": 2 },
+        { "code": "BS-CH291", "name": "Chemistry-I Laboratory", "credit": 1.5 },
+        { "code": "ES-CS291", "name": "Programming for Problem Solving Laboratory", "credit": 1.5 },
+        { "code": "ES-ME291", "name": "Engineering Graphics & Design", "credit": 3 },
+        { "code": "HM-HU291", "name": "Language Laboratory", "credit": 1 }
+      ],
+      "3": [
+        { "code": "ES-CS301", "name": "Data Structures & Algorithms", "credit": 4 },
+        { "code": "ES-CS302", "name": "Digital Logic", "credit": 3 },
+        { "code": "ES-CS303", "name": "Discrete Mathematics", "credit": 3 },
+        { "code": "ES-CS391", "name": "Data Structures Laboratory", "credit": 1.5 }
+      ],
+      "4": [
+        { "code": "ES-CS401", "name": "Design & Analysis of Algorithms", "credit": 3 },
+        { "code": "ES-CS402", "name": "Operating Systems", "credit": 4 },
+        { "code": "ES-CS403", "name": "Database Management Systems", "credit": 4 },
+        { "code": "ES-CS491", "name": "OS & DBMS Laboratory", "credit": 1.5 }
+      ],
+      "5": [
+        { "code": "ES-AI501", "name": "Artificial Intelligence", "credit": 3 },
+        { "code": "ES-AI502", "name": "Machine Learning", "credit": 4 },
+        { "code": "ES-CS503", "name": "Software Engineering", "credit": 3 },
+        { "code": "PE-AI501", "name": "Professional Elective – I", "credit": 3 },
+        { "code": "ES-AI591", "name": "AI & ML Laboratory", "credit": 1.5 }
+      ],
+      "6": [
+        { "code": "ES-AI601", "name": "Deep Learning", "credit": 3 },
+        { "code": "ES-AI602", "name": "Natural Language Processing", "credit": 3 },
+        { "code": "PE-AI601", "name": "Professional Elective – II", "credit": 3 },
+        { "code": "OE-AI601", "name": "Open Elective – I", "credit": 3 },
+        { "code": "ES-AI691", "name": "Deep Learning Laboratory", "credit": 1.5 }
+      ],
+      "7": [
+        { "code": "PE-AI701", "name": "Professional Elective – III", "credit": 3 },
+        { "code": "OE-AI701", "name": "Open Elective – II", "credit": 3 },
+        { "code": "ES-AI791", "name": "Project Phase I", "credit": 4 },
+        { "code": "ES-AI792", "name": "Industrial Training / Internship", "credit": 2 }
+      ],
+      "8": [
+        { "code": "ES-AI891", "name": "Project Phase II", "credit": 10 },
+        { "code": "PE-AI801", "name": "Professional Elective – IV", "credit": 3 }
+      ]
+    }
+  }
+}

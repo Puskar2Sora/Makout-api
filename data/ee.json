@@ -1,0 +1,38 @@
+{
+  "stream": "EE",
+  "regulations": {
+    "2023": {
+      "1": [],
+      "2": [],
+      "3": [
+        { "code": "ES-EE301", "name": "Electrical Machines I", "credit": 4 },
+        { "code": "ES-EE302", "name": "Network Analysis", "credit": 3 },
+        { "code": "ES-EE391", "name": "Electrical Machines Laboratory", "credit": 1.5 }
+      ],
+      "4": [
+        { "code": "ES-EE401", "name": "Control Systems", "credit": 3 },
+        { "code": "ES-EE402", "name": "Power Electronics", "credit": 4 },
+        { "code": "ES-EE491", "name": "Power Electronics Laboratory", "credit": 1.5 }
+      ],
+      "5": [
+        { "code": "ES-EE501", "name": "Electrical Machines II", "credit": 4 },
+        { "code": "ES-EE502", "name": "Power Systems I", "credit": 3 },
+        { "code": "PE-EE501", "name": "Professional Elective – I", "credit": 3 }
+      ],
+      "6": [
+        { "code": "ES-EE601", "name": "Power Systems II", "credit": 3 },
+        { "code": "ES-EE602", "name": "Utilization of Electrical Energy", "credit": 3 },
+        { "code": "PE-EE601", "name": "Professional Elective – II", "credit": 3 },
+        { "code": "OE-EE601", "name": "Open Elective – I", "credit": 3 }
+      ],
+      "7": [
+        { "code": "PE-EE701", "name": "Professional Elective – III", "credit": 3 },
+        { "code": "ES-EE791", "name": "Project Phase I", "credit": 4 },
+        { "code": "ES-EE792", "name": "Industrial Training", "credit": 2 }
+      ],
+      "8": [
+        { "code": "ES-EE891", "name": "Project Phase II", "credit": 10 }
+      ]
+    }
+  }
+}
