@@ -130,6 +130,11 @@ makaut-api/
 
 ---
 
+## Structure
+
+
+<img src="makout_api.png"  width="2000">
+
 ## 🧪 Testing the API
 
 ### Using Browser
